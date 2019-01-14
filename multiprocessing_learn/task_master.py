@@ -7,7 +7,7 @@ import random
 import time
 import queue
 from multiprocessing.managers import BaseManager
-
+import pickle
 '''
 实现方法(master)：
 1、创建Queue队列

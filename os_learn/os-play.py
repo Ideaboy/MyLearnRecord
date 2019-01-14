@@ -7,7 +7,7 @@ import os
 import time
 
 if __name__ == "__main__":
-    #为什么加的 {.} ？
+    # 为什么加的 {.} ？ A：默认参数
     print(os.path.abspath('.'))
     abspath = os.path.abspath('.')
 
@@ -29,6 +29,7 @@ if __name__ == "__main__":
     # os.remove('onlyname')
 
     filename1 = os.path.abspath(__file__)
+    # 返回上一级目录
     fname2 = os.path.dirname(filename1)
     fname3 = os.path.dirname(fname2)
     print("os.path.abspath(__file__):", filename1)
