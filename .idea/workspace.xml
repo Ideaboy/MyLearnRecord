@@ -187,6 +187,9 @@
       <replace>logging.info</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -238,11 +241,12 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="414" />
-    <option name="y" value="338" />
+    <option name="x" value="175" />
+    <option name="y" value="337" />
     <option name="width" value="879" />
     <option name="height" value="615" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -496,13 +500,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="414" y="338" width="879" height="615" extended-state="0" />
+    <frame x="175" y="337" width="879" height="615" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4993895" weight="0.3289183" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50586355" side_tool="true" weight="0.4362416" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" sideWeight="0.49413645" visible="true" weight="0.5320088" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" sideWeight="0.49413645" visible="true" weight="0.53318584" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.62881565" weight="0.45695364" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.23893805" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36019537" />
