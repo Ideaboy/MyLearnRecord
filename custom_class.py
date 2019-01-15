@@ -40,4 +40,5 @@ if __name__ == "__main__":
     print(s)
     s2 = Chain2().mysql.users("hello").re
     print(s2)
+    print("test")
 
