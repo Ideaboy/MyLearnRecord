@@ -45,7 +45,7 @@ class greedy_selector(object):
                 j = i
                 count += 1
                 self._actlist.append(i)
-        print(self._actlist)
+        print("选择序列", self._actlist)
         # return count
         return self._actlist
 
@@ -80,7 +80,6 @@ if __name__ == "__main__":
         "庚": (6, 10),
         "辛": (8, 11),
         "癸": (2, 13)
-
     }
     print(type(actvitiylist))
     rd = dict_sort(actvitiylist)
@@ -89,9 +88,9 @@ if __name__ == "__main__":
 
     g = greedy_selector(rd)
     slit1 = g.select()
-    print(len(slit1))
+    print("len(slit1)=", len(slit1))
     actlist = g.get_actlist(slit1)
-    print(actlist)
+    print("g.select -> ", actlist)
 
     slit2 = g.greedy_select()
     print(slit2)

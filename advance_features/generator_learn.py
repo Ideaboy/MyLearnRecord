@@ -15,10 +15,6 @@ def triangle_yh(m):
             a[j] = b[j-1] + b[j]
         b = a.copy()
         yield b
-# class Triangle_yh(object):
-#     pass
-
-
 
 if __name__ == "__main__":
     t = triangle_yh(12)
