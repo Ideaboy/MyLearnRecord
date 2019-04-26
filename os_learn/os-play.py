@@ -29,14 +29,18 @@ if __name__ == "__main__":
     # os.remove('onlyname')
 
     filename1 = os.path.abspath(__file__)
+    fpath = os.path.abspath('.')
+    ffpath = os.path.abspath('..')
+    print("os.path.abspath('.'):", fpath)
+    print("os.path.abspath('..'):", ffpath)
+    print("os.path.abspath(__file__):", filename1)
     # 返回上一级目录
     fname2 = os.path.dirname(filename1)
     fname3 = os.path.dirname(fname2)
-    print("os.path.abspath(__file__):", filename1)
     print("os.path.dirname(filename):", fname2)
     print("os.path.dirname(filename):", fname3)
 
-    fpath = os.path.abspath('.')
-    ffpath = os.path.abspath('..')
-    print("fpath", fpath)
-    print("ffpath:", ffpath)
+    n = os.path.split(os.path.dirname(__file__))
+    print("n:", n)
+    spn = os.path.dirname(__file__).split('/')
+    print(spn[-1])

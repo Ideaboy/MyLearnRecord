@@ -21,8 +21,8 @@ logging.basicConfig(level=logging.INFO)
 if __name__ == "__main__":
     logging.info("Parent process %s." % os.getpid())
     sztime = time.time()
-    p = Pool(500)
-    for i in range(1000):
+    p = Pool(100)
+    for i in range(50):
         p.apply_async(long_time_task, args=(i,))
     logging.info("Waiting for all subroicesses done ...")
     p.close()

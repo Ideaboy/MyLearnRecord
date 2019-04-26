@@ -36,7 +36,7 @@ class Chain2(object):
 if __name__ == "__main__":
     # mysql = "Mysql"
     # s = Chain().mysql.conf.int_id.setting.list.users("Tom")
-    s = Chain("gg").mysql.data
+    s = Chain("/gg").mysql.data
     print(s)
     s2 = Chain2().mysql.users("hello").re
     print(s2)

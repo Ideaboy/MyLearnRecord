@@ -13,9 +13,11 @@ salaries = np.array([103100, 104900, 106800, 108700, 110400, 112300, 114200, 116
 
 # 将特征数据集分为训练集和测试集，除了最后 4 个作为测试用例，其他都用于训练
 X_train = experiences[:7]
-X_train = X_train.reshape(-1,1)
+X_train = X_train.reshape(-1, 1)
+print("Xtrain:", X_train)
 X_test = experiences[7:]
-X_test = X_test.reshape(-1,1)
+X_test = X_test.reshape(-1, 1)
+print("X_test", X_test)
 
 # 把目标数据（特征对应的真实值）也分为训练集和测试集
 y_train = salaries[:7]
@@ -31,8 +33,8 @@ regr.fit(X_train, y_train)
 diabetes_y_pred = regr.predict(X_test)
 
 # 将测试结果以图标的方式显示出来
-plt.scatter(X_test, y_test,  color='black')
-plt.plot(X_test, diabetes_y_pred, color='blue', linewidth=3)
+plt.scatter(X_test, y_test,  color='red')
+plt.plot(X_test, diabetes_y_pred, color='blue', linewidth=2)
 
 plt.xticks(())
 plt.yticks(())
