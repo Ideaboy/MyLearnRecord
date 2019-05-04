@@ -2,22 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bce1ff9-f76f-4750-b070-68270f471099" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/network_protocol/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_protocol/tcp_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_protocol/tcp_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML_learn/bayesian_MLE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML_learn/career_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML_learn/linear_regression2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML_learn/logistic_regression1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML_learn/nptest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML_learn/quiz.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_learn/insertion_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_learn/selection_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pa_chong/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pa_chong/css_sele.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/learn_.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learn_.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ML_learn/linear_regression1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML_learn/linear_regression1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/advance_features/custom_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decorator_summary.py" beforeDir="false" afterPath="$PROJECT_DIR$/advance_features/decorator_summary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/high_gradefunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo_learn/high_gradefunc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiprocessing_learn/Pool_learn.py" beforeDir="false" afterPath="$PROJECT_DIR$/multiprocessing_learn/Pool_learn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/os_learn/os-play.py" beforeDir="false" afterPath="$PROJECT_DIR$/os_learn/os-play.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/property_learn.py" beforeDir="false" afterPath="$PROJECT_DIR$/advance_features/property_learn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testRequests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_exam.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/threading_learn/inh_threading.py" beforeDir="false" afterPath="$PROJECT_DIR$/threading_learn/inh_threading.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threading_learn/threading_c&amp;s.py" beforeDir="false" afterPath="$PROJECT_DIR$/threading_learn/threading_c&amp;s.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threading_learn/threadlocal_learn.py" beforeDir="false" afterPath="$PROJECT_DIR$/threading_learn/threadlocal_learn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infunc_learn/dataetime_learn.py" beforeDir="false" afterPath="$PROJECT_DIR$/infunc_learn/datetime_learn.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,189 +26,181 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/MyLearnRecord$task_master.coverage" NAME="task_master Coverage Results" MODIFIED="1554555171261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocessing_learn" />
-    <SUITE FILE_PATH="coverage/MyLearnRecord$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1554542371713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo_learn" />
     <SUITE FILE_PATH="coverage/learn_$task_worker.coverage" NAME="task_worker Coverage Results" MODIFIED="1546926106884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocessing_learn" />
+    <SUITE FILE_PATH="coverage/learn_$dataetime_learn.coverage" NAME="dataetime_learn Coverage Results" MODIFIED="1545721490533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/infunc_learn" />
+    <SUITE FILE_PATH="coverage/MyLearnRecord$linear_regression2.coverage" NAME="linear_regression2 Coverage Results" MODIFIED="1556864122245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML_learn" />
+    <SUITE FILE_PATH="coverage/learn_$pytest_func.coverage" NAME="pytest_func Coverage Results" MODIFIED="1543202137465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/learn_$property_learn.coverage" NAME="property_learn Coverage Results" MODIFIED="1545212714140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLearnRecord$css_sele.coverage" NAME="css_sele Coverage Results" MODIFIED="1556279866390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pa_chong" />
+    <SUITE FILE_PATH="coverage/learn_$logging_level.coverage" NAME="logging_level Coverage Results" MODIFIED="1546052838688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logging_learn" />
+    <SUITE FILE_PATH="coverage/learn_$inh_threading.coverage" NAME="inh_threading Coverage Results" MODIFIED="1546845115491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threading_learn" />
+    <SUITE FILE_PATH="coverage/learn_$custom_class.coverage" NAME="custom_class Coverage Results" MODIFIED="1543901891448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.pytest_cache" />
+    <SUITE FILE_PATH="coverage/MyLearnRecord$task_worker.coverage" NAME="task_worker Coverage Results" MODIFIED="1554555177541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocessing_learn" />
+    <SUITE FILE_PATH="coverage/MyLearnRecord$custom_class.coverage" NAME="custom_class Coverage Results" MODIFIED="1554308450662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advance_features" />
+    <SUITE FILE_PATH="coverage/learn_$task_master.coverage" NAME="task_master Coverage Results" MODIFIED="1547462537850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocessing_learn" />
+    <SUITE FILE_PATH="coverage/learn_$itertools_test.coverage" NAME="itertools_test Coverage Results" MODIFIED="1545809055291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/itertools_learn" />
+    <SUITE FILE_PATH="coverage/MyLearnRecord$selection_sort.coverage" NAME="selection_sort Coverage Results" MODIFIED="1556952637537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo_learn" />
+    <SUITE FILE_PATH="coverage/learn_$pypiwin32_learn.coverage" NAME="pypiwin32_learn Coverage Results" MODIFIED="1545802867822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLearnRecord$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1554303086378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network_protocol" />
+    <SUITE FILE_PATH="coverage/MyLearnRecord$decorator_summary.coverage" NAME="decorator_summary Coverage Results" MODIFIED="1554534550918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advance_features" />
+    <SUITE FILE_PATH="coverage/MyLearnRecord$logistic_regression1.coverage" NAME="logistic_regression1 Coverage Results" MODIFIED="1556870553937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML_learn" />
+    <SUITE FILE_PATH="coverage/learn_$testRequests.coverage" NAME="testRequests Coverage Results" MODIFIED="1545357795167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLearnRecord$insertion_sort.coverage" NAME="insertion_sort Coverage Results" MODIFIED="1556960225334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo_learn" />
+    <SUITE FILE_PATH="coverage/learn_$Pool_learn.coverage" NAME="Pool_learn Coverage Results" MODIFIED="1546938228501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocessing_learn" />
+    <SUITE FILE_PATH="coverage/MyLearnRecord$linear_regression1.coverage" NAME="linear_regression1 Coverage Results" MODIFIED="1556858460613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML_learn" />
+    <SUITE FILE_PATH="coverage/learn_$pytest_test_func1.coverage" NAME="pytest_test_func Coverage Results" MODIFIED="1545803704211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/file1" />
+    <SUITE FILE_PATH="coverage/learn_$generator_learn.coverage" NAME="generator_learn Coverage Results" MODIFIED="1547188672817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advance_features" />
+    <SUITE FILE_PATH="coverage/learn_$test_logging_threading.coverage" NAME="test-logging-threading Coverage Results" MODIFIED="1546594318558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threading_learn" />
+    <SUITE FILE_PATH="coverage/MyLearnRecord$pc_shufaAPI.coverage" NAME="pc_shufaAPI Coverage Results" MODIFIED="1548726655096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLearnRecord$threadlocal_learn.coverage" NAME="threadlocal_learn Coverage Results" MODIFIED="1556074314938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threading_learn" />
+    <SUITE FILE_PATH="coverage/MyLearnRecord$process_learn.coverage" NAME="process_learn Coverage Results" MODIFIED="1556069916064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocessing_learn" />
+    <SUITE FILE_PATH="coverage/learn_$logging_basicConfig.coverage" NAME="logging_basicConfig Coverage Results" MODIFIED="1545880247028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logging_learn" />
+    <SUITE FILE_PATH="coverage/learn_$threading_c_s.coverage" NAME="threading_c&amp;s Coverage Results" MODIFIED="1546840886462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threading_learn" />
+    <SUITE FILE_PATH="coverage/MyLearnRecord$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1556941964664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo_learn" />
     <SUITE FILE_PATH="coverage/MyLearnRecord$greedy_algo1.coverage" NAME="greedy_algo1 Coverage Results" MODIFIED="1553955816369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo_learn" />
     <SUITE FILE_PATH="coverage/learn_$os_play__1_.coverage" NAME="os-play (1) Coverage Results" MODIFIED="1545720130948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/os_learn" />
     <SUITE FILE_PATH="coverage/MyLearnRecord$Pool_learn.coverage" NAME="Pool_learn Coverage Results" MODIFIED="1556070101035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocessing_learn" />
     <SUITE FILE_PATH="coverage/learn_$decorator_summary.coverage" NAME="decorator_summary Coverage Results" MODIFIED="1545212554291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learn_$dataetime_learn.coverage" NAME="dataetime_learn Coverage Results" MODIFIED="1545721490533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/infunc_learn" />
     <SUITE FILE_PATH="coverage/learn_$test_pytest1.coverage" NAME="test_pytest1 Coverage Results" MODIFIED="1545803440467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learn_$pytest_func.coverage" NAME="pytest_func Coverage Results" MODIFIED="1543202137465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/learn_$property_learn.coverage" NAME="property_learn Coverage Results" MODIFIED="1545212714140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learn_$logging_level.coverage" NAME="logging_level Coverage Results" MODIFIED="1546052838688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logging_learn" />
     <SUITE FILE_PATH="coverage/MyLearnRecord$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1554302678298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network_protocol" />
     <SUITE FILE_PATH="coverage/MyLearnRecord$inh_threading.coverage" NAME="inh_threading Coverage Results" MODIFIED="1554304975360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threading_learn" />
     <SUITE FILE_PATH="coverage/MyLearnRecord$os_play.coverage" NAME="os-play Coverage Results" MODIFIED="1556075480896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/os_learn" />
-    <SUITE FILE_PATH="coverage/learn_$inh_threading.coverage" NAME="inh_threading Coverage Results" MODIFIED="1546845115491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threading_learn" />
+    <SUITE FILE_PATH="coverage/MyLearnRecord$nptest.coverage" NAME="nptest Coverage Results" MODIFIED="1556870348680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML_learn" />
     <SUITE FILE_PATH="coverage/learn_$task_woker.coverage" NAME="task_woker Coverage Results" MODIFIED="1546914569561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocessing_learn" />
     <SUITE FILE_PATH="coverage/learn_$os_play.coverage" NAME="os-play Coverage Results" MODIFIED="1547462734469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/os_learn" />
-    <SUITE FILE_PATH="coverage/learn_$custom_class.coverage" NAME="custom_class Coverage Results" MODIFIED="1543901891448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.pytest_cache" />
-    <SUITE FILE_PATH="coverage/MyLearnRecord$task_worker.coverage" NAME="task_worker Coverage Results" MODIFIED="1554555177541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocessing_learn" />
-    <SUITE FILE_PATH="coverage/MyLearnRecord$pypiwin32_learn.coverage" NAME="pypiwin32_learn Coverage Results" MODIFIED="1556097928853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pypiwin32_learn" />
+    <SUITE FILE_PATH="coverage/MyLearnRecord$pypiwin32_learn.coverage" NAME="pypiwin32_learn Coverage Results" MODIFIED="1556272187273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pypiwin32_learn" />
     <SUITE FILE_PATH="coverage/learn_$threadlocal_learn.coverage" NAME="threadlocal_learn Coverage Results" MODIFIED="1546850374816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threading_learn" />
-    <SUITE FILE_PATH="coverage/MyLearnRecord$custom_class.coverage" NAME="custom_class Coverage Results" MODIFIED="1554308450662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advance_features" />
-    <SUITE FILE_PATH="coverage/learn_$task_master.coverage" NAME="task_master Coverage Results" MODIFIED="1547462537850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocessing_learn" />
-    <SUITE FILE_PATH="coverage/learn_$itertools_test.coverage" NAME="itertools_test Coverage Results" MODIFIED="1545809055291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/itertools_learn" />
     <SUITE FILE_PATH="coverage/learn_$high_gradefunc.coverage" NAME="high_gradefunc Coverage Results" MODIFIED="1547191940324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyLearnRecord$generator_learn.coverage" NAME="generator_learn Coverage Results" MODIFIED="1553954318851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advance_features" />
+    <SUITE FILE_PATH="coverage/MyLearnRecord$bayesian_MLE.coverage" NAME="bayesian_MLE Coverage Results" MODIFIED="1556722990425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML_learn" />
     <SUITE FILE_PATH="coverage/learn_$linear_regression1.coverage" NAME="linear_regression1 Coverage Results" MODIFIED="1547465200167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML_learn" />
-    <SUITE FILE_PATH="coverage/learn_$pypiwin32_learn.coverage" NAME="pypiwin32_learn Coverage Results" MODIFIED="1545802867822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyLearnRecord$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1554303086378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network_protocol" />
-    <SUITE FILE_PATH="coverage/MyLearnRecord$decorator_summary.coverage" NAME="decorator_summary Coverage Results" MODIFIED="1554534550918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advance_features" />
-    <SUITE FILE_PATH="coverage/learn_$testRequests.coverage" NAME="testRequests Coverage Results" MODIFIED="1545357795167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learn_$transdatas.coverage" NAME="transdatas Coverage Results" MODIFIED="1544603146812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learn_$Pool_learn.coverage" NAME="Pool_learn Coverage Results" MODIFIED="1546938228501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocessing_learn" />
-    <SUITE FILE_PATH="coverage/MyLearnRecord$linear_regression1.coverage" NAME="linear_regression1 Coverage Results" MODIFIED="1555816864531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML_learn" />
     <SUITE FILE_PATH="coverage/learn_$custom_class__1_.coverage" NAME="custom_class (1) Coverage Results" MODIFIED="1545294192066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learn_$pytest_test_func1.coverage" NAME="pytest_test_func Coverage Results" MODIFIED="1545803704211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/file1" />
-    <SUITE FILE_PATH="coverage/learn_$generator_learn.coverage" NAME="generator_learn Coverage Results" MODIFIED="1547188672817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advance_features" />
-    <SUITE FILE_PATH="coverage/learn_$test_logging_threading.coverage" NAME="test-logging-threading Coverage Results" MODIFIED="1546594318558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threading_learn" />
     <SUITE FILE_PATH="coverage/learn_$process_learn.coverage" NAME="process_learn Coverage Results" MODIFIED="1546832930279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocessing_learn" />
-    <SUITE FILE_PATH="coverage/MyLearnRecord$pc_shufaAPI.coverage" NAME="pc_shufaAPI Coverage Results" MODIFIED="1548726655096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyLearnRecord$threadlocal_learn.coverage" NAME="threadlocal_learn Coverage Results" MODIFIED="1556074314938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threading_learn" />
-    <SUITE FILE_PATH="coverage/MyLearnRecord$process_learn.coverage" NAME="process_learn Coverage Results" MODIFIED="1556069916064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocessing_learn" />
     <SUITE FILE_PATH="coverage/learn_$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1546827541937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo_learn" />
-    <SUITE FILE_PATH="coverage/learn_$logging_basicConfig.coverage" NAME="logging_basicConfig Coverage Results" MODIFIED="1545880247028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logging_learn" />
-    <SUITE FILE_PATH="coverage/learn_$threading_c_s.coverage" NAME="threading_c&amp;s Coverage Results" MODIFIED="1546840886462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threading_learn" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1973947955">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.256" value="1" />
-          <entry key="project.open.time.28" value="3" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="4" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.30" value="3" />
-          <entry key="project.open.time.31" value="3" />
-          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.31" value="4" />
+          <entry key="project.open.time.33" value="2" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="45" />
+          <entry key="career_data" value="1" />
+          <entry key="csv" value="3" />
+          <entry key="py" value="67" />
           <entry key="pyi" value="2" />
+          <entry key="vmoptions" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="45" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="67" />
           <entry key="PythonStub" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="229" />
+          <entry key="Python Console" value="500" />
+          <entry key="csv" value="7" />
           <entry key="dummy" value="8" />
-          <entry key="py" value="2867" />
+          <entry key="py" value="6887" />
+          <entry key="vmoptions" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Python" value="3096" />
+          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="Python" value="7387" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/threading_learn/threadlocal_learn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1716">
-              <caret line="78" column="17" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
-              <folding>
-                <element signature="e#106#122#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/os_learn/os-play.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pypiwin32_learn/pypiwin32_learn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/Program Files/Python37/Lib/threading.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20042">
-              <caret line="918" column="20" lean-forward="true" selection-start-line="918" selection-start-column="20" selection-end-line="918" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/threading.pyi">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/threading_learn/test-logging-threading.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/threading_learn/threading_c&amp;s.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/multiprocessing_learn/task_master.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/multiprocessing_learn/process_learn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ML_learn/linear_regression1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.53411186">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/algo_learn/bubble_sort.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="308">
+                  <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/algo_learn/selection_sort.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="220">
+                  <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+                  <folding>
+                    <marker date="1556942045236" expanded="true" signature="232:237" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/algo_learn/insertion_sort.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="88">
+                  <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+                  <folding>
+                    <marker date="1556960327823" expanded="true" signature="188:192" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ML_learn/linear_regression1.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="572">
+                  <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+                  <folding>
+                    <element signature="e#81#112#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ML_learn/linear_regression2.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="18" selection-start-column="18" selection-end-column="18" />
+                  <folding>
+                    <element signature="e#67#116#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -224,11 +215,15 @@
       <find>print</find>
       <find>std</find>
       <find>v</find>
+      <find>\n</find>
+      <find>0,117,8</find>
+      <find>\n</find>
     </findStrings>
     <replaceStrings>
       <replace>logging.info</replace>
       <replace>v</replace>
       <replace>std</replace>
+      <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -238,7 +233,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/yangh_generator.py" />
         <option value="$PROJECT_DIR$/decorator.py" />
         <option value="$PROJECT_DIR$/test_exam.py" />
         <option value="$PROJECT_DIR$/.pytest_cache/custom_class.py" />
@@ -276,10 +270,20 @@
         <option value="$PROJECT_DIR$/threading_learn/inh_threading.py" />
         <option value="$PROJECT_DIR$/advance_features/custom_class.py" />
         <option value="$PROJECT_DIR$/algo_learn/bubble_sort.py" />
-        <option value="$PROJECT_DIR$/ML_learn/linear_regression1.py" />
         <option value="$PROJECT_DIR$/multiprocessing_learn/Pool_learn.py" />
         <option value="$PROJECT_DIR$/threading_learn/threadlocal_learn.py" />
         <option value="$PROJECT_DIR$/os_learn/os-play.py" />
+        <option value="$PROJECT_DIR$/pa_chong/css_sele.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/ML_learn/career_data.csv" />
+        <option value="$PROJECT_DIR$/ML_learn/bayesian_MLE.py" />
+        <option value="$PROJECT_DIR$/ML_learn/quiz.csv" />
+        <option value="$PROJECT_DIR$/ML_learn/linear_regression1.py" />
+        <option value="$PROJECT_DIR$/ML_learn/linear_regression2.py" />
+        <option value="$PROJECT_DIR$/ML_learn/nptest.py" />
+        <option value="$PROJECT_DIR$/ML_learn/logistic_regression1.py" />
+        <option value="$PROJECT_DIR$/algo_learn/selection_sort.py" />
+        <option value="$PROJECT_DIR$/algo_learn/insertion_sort.py" />
       </list>
     </option>
   </component>
@@ -290,12 +294,14 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="189" />
-    <option name="y" value="127" />
+    <option name="x" value="312" />
+    <option name="y" value="170" />
     <option name="width" value="1080" />
-    <option name="height" value="707" />
+    <option name="height" value="704" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -312,17 +318,7 @@
             <path>
               <item name="MyLearnRecord" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyLearnRecord" type="462c0819:PsiDirectoryNode" />
-              <item name="ML_learn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyLearnRecord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyLearnRecord" type="462c0819:PsiDirectoryNode" />
-              <item name="os_learn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyLearnRecord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyLearnRecord" type="462c0819:PsiDirectoryNode" />
-              <item name="pypiwin32_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="algo_learn" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -335,7 +331,7 @@
     <property name="last_opened_file_path" value="D:/Git/cmd/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -366,8 +362,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pypiwin32_learn">
-    <configuration name="Pool_learn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.insertion_sort">
+    <configuration name="bubble_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learn_" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -375,12 +371,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiprocessing_learn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo_learn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiprocessing_learn/Pool_learn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo_learn/bubble_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -389,7 +385,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="os-play" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="insertion_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learn_" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -397,12 +393,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/os_learn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo_learn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/os_learn/os-play.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo_learn/insertion_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -411,7 +407,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="process_learn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="logistic_regression1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learn_" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -419,12 +415,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiprocessing_learn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML_learn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiprocessing_learn/process_learn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML_learn/logistic_regression1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -433,7 +429,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pypiwin32_learn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="nptest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learn_" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -441,12 +437,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pypiwin32_learn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML_learn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pypiwin32_learn/pypiwin32_learn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML_learn/nptest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -455,7 +451,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="threadlocal_learn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="selection_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learn_" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -463,12 +459,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/threading_learn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo_learn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/threading_learn/threadlocal_learn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo_learn/selection_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -512,19 +508,19 @@
     <list>
       <item itemvalue="Python tests.pytest_test_func" />
       <item itemvalue="Python tests.pytest_func" />
-      <item itemvalue="Python.process_learn" />
-      <item itemvalue="Python.Pool_learn" />
-      <item itemvalue="Python.threadlocal_learn" />
-      <item itemvalue="Python.os-play" />
-      <item itemvalue="Python.pypiwin32_learn" />
+      <item itemvalue="Python.logistic_regression1" />
+      <item itemvalue="Python.nptest" />
+      <item itemvalue="Python.selection_sort" />
+      <item itemvalue="Python.bubble_sort" />
+      <item itemvalue="Python.insertion_sort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pypiwin32_learn" />
-        <item itemvalue="Python.os-play" />
-        <item itemvalue="Python.threadlocal_learn" />
-        <item itemvalue="Python.Pool_learn" />
-        <item itemvalue="Python.process_learn" />
+        <item itemvalue="Python.insertion_sort" />
+        <item itemvalue="Python.selection_sort" />
+        <item itemvalue="Python.bubble_sort" />
+        <item itemvalue="Python.logistic_regression1" />
+        <item itemvalue="Python.nptest" />
       </list>
     </recent_temporary>
   </component>
@@ -571,25 +567,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="222" y="216" width="1080" height="707" extended-state="1" />
+    <frame x="179" y="137" width="1080" height="704" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31312126" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25347912" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.19649123" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5520386" weight="0.5449219" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.55150217" weight="0.21003717" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4969475" weight="0.26081872" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4993895" weight="0.3289183" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4993895" weight="0.3280543" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32982457" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49413645" weight="0.28070176" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49413645" weight="0.24773756" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.23893805" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.44796136" side_tool="true" weight="0.451462" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.44849786" side_tool="true" weight="0.28538013" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32982457" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -597,6 +593,30 @@
       <window_info anchor="right" id="SciView" order="3" weight="0.74141634" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25347912" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.19649123" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.55150217" visible="true" weight="0.21003717" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4969475" weight="0.26081872" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4993895" weight="0.3280543" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32982457" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49413645" weight="0.24773756" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.23893805" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.44849786" side_tool="true" weight="0.28538013" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32982457" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.74141634" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -605,17 +625,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="886" column="35" selection-start-line="886" selection-start-column="35" selection-end-line="886" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-991083293/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/os_learn/os-play-file.py" />
-    <entry file="file://$PROJECT_DIR$/file1/test_pytest1.py" />
-    <entry file="file://$PROJECT_DIR$/file1/test_pytest2.py" />
     <entry file="file://$PROJECT_DIR$/pypiwin32_learn/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -643,20 +652,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yangh_generator.py" />
-    <entry file="file://$PROJECT_DIR$/infunc_learn/dataetime_learn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo_learn/greedy_algo1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pc_shufaAPI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -668,13 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itertools_learn/itertools_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -694,13 +682,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_exam.py" />
     <entry file="file://$PROJECT_DIR$/testRequests.py" />
-    <entry file="file://$PROJECT_DIR$/algo_learn/high_gradefunc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/advance_features/custom_class.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="814">
@@ -726,10 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-          <folding>
-            <element signature="e#85#98#0" expanded="true" />
-            <marker date="1554302744795" expanded="true" signature="153:680" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -737,13 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo_learn/bubble_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -770,18 +740,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/threading_learn/threadlocal_learn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1716">
+        <state relative-caret-position="1694">
           <caret line="78" column="17" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
-          <folding>
-            <element signature="e#106#122#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Program Files/Python37/Lib/threading.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20042">
-          <caret line="918" column="20" lean-forward="true" selection-start-line="918" selection-start-column="20" selection-end-line="918" selection-end-column="20" />
+          <caret line="918" column="20" selection-start-line="918" selection-start-column="20" selection-end-line="918" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pypiwin32_learn/pypiwin32_learn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/os_learn/os-play.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -790,21 +771,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/threading_learn/test-logging-threading.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
+        <state relative-caret-position="472">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/threading_learn/threading_c&amp;s.py">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="66">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_learn/career_data" />
+    <entry file="file://D:/Anaconda35/envs/py2/Lib/site-packages/pandas/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_learn/career_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/multiprocessing_learn/task_master.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
+        <state relative-caret-position="188">
           <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
         </state>
       </provider>
@@ -816,24 +812,144 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pa_chong/css_sele.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threading_learn/threading_c&amp;s.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda35/Lib/site-packages/numpy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1298">
+          <caret line="76" column="4" lean-forward="true" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda35/Lib/site-packages/sklearn/linear_model/logistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="1716" lean-forward="true" selection-start-line="1716" selection-end-line="1716" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_learn/bayesian_MLE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda35/Lib/site-packages/sklearn/linear_model/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="447" column="7" lean-forward="true" selection-start-line="447" selection-start-column="7" selection-end-line="447" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ML_learn/linear_regression1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        <state relative-caret-position="572">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <element signature="e#81#112#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/os_learn/os-play.py">
+    <entry file="file://$PROJECT_DIR$/ML_learn/linear_regression2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+          <folding>
+            <element signature="e#67#116#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pypiwin32_learn/pypiwin32_learn.py">
+    <entry file="file://$PROJECT_DIR$/infunc_learn/datetime_learn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itertools_learn/itertools_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_learn/nptest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_learn/logistic_regression1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="e#83#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo_learn/high_gradefunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo_learn/greedy_algo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_learn/quiz.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo_learn/bubble_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo_learn/selection_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <marker date="1556942045236" expanded="true" signature="232:237" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo_learn/insertion_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <marker date="1556960327823" expanded="true" signature="188:192" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
